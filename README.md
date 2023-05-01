@@ -24,7 +24,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. редактирование файла readme
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Проект курса на purple school
 
 ## Installation
 
